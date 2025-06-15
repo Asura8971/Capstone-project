@@ -100,7 +100,8 @@ All the project deliverables are included in the [`Solutions`](https://github.co
 
 Watch a full walkthrough of this capstone project including insights, dashboards, and recommendations:
 
-▶️ [**Watch Video**]((https://drive.google.com/file/d/1pZKg2K-NWR8y2Ca3Y_iLKPgo97rO0MVu/view?usp=drive_link))
+▶️ [**Watch Video**](https://drive.google.com/file/d/1pZKg2K-NWR8y2Ca3Y_iLKPgo97rO0MVu/view?usp=drive_link)
+
 
 
 ---
