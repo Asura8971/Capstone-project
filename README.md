@@ -89,7 +89,7 @@ All the project deliverables are included in the [`Solutions`](https://github.co
 ## 📥 How to Use
 
 1. **Download** or **clone** the repository
-2. Load SQL data from `/Data/olympic_data.sql` into MySQL
+2. Load SQL data from `/Data` into MySQL
 3. Open Power BI `.pbix` files to view dashboards
 4. Review Excel files for raw analysis and pivot summaries
 5. Read `Final_Report.pdf` for narrative insights
